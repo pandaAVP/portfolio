@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://avhiyanpandey.vercel.app/sitemap.xml
+Sitemap: https://www.avhiyanpandey.com.np/sitemap.xml
 
 # AI Crawlers — explicitly allowed
 User-agent: GPTBot
